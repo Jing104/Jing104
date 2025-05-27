@@ -37,15 +37,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jing104&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jing104&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jing104&show_icons=true&theme=gradient&hide_border=true" width="100%" />
 </p>
 
-<!-- 🔥 活动图表（稳定版） -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jing104&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jing104&theme=gradient&hide_border=true" width="100%" />
 </p>
 
+<!-- 🔥 活动图表 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jing104&theme=light&hide_border=true" width="100%"/>
+</p>
 
 <!-- 🚀 尾部动态渐变波浪图（与顶部对称） -->
 <p align="center">

@@ -1,12 +1,8 @@
-<!-- 🚀 顶部动态渐变波浪图 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Hi,%20I'm%20Jing&reversal=true&textBg=false&fontSize=48&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20China%20University%20of%20Petroleum%20(East)&descSize=20&descAlignY=55&descAlign=50" />
 </p>
 
-<!-- 🌈 背景渐变容器 + 动态打字效果 -->
-<div align="center" style="background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); padding: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Jing;Love+Coding+and+Learning!" alt="Typing SVG" />
-</div>
 
 <!-- 🌟 简要介绍徽章 -->
 <p align="center">

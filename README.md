@@ -1,12 +1,11 @@
 <!-- 🚀 顶部动态渐变波浪图 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
+<!-- 背景容器，模拟波浪顶图叠加文字 -->
+<div align="center" style="position: relative; height: 200px; background-image: url('https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header'); background-size: cover; display: flex; align-items: center; justify-content: center;">
 
-<!-- 🔥 动态打字标题 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Jing;Software+Engineering+Student;at+China+University+of+Petroleum+(East);Love+Coding+and+Learning!" alt="Typing SVG" />
-</h1>
+  <!-- 动态打字标题叠加在中间 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Jing;Love+Coding+and+Learning!" alt="Typing SVG" />
+</div>
+
 
 <!-- 🌟 简要介绍徽章 -->
 <p align="center">
@@ -20,7 +19,7 @@
 
 - 🎓 I’m a student majoring in **Software Engineering** at **China University of Petroleum (East China)**
 - 🌱 Currently diving into **back development**, **algorithms**, and **software design**
-- 💡 Exploring projects in **Java**, **Spring**，**Mybatis**
+- 💡 Exploring projects in **Java**, **Spring**，**Mybatis** ...
 - 🛠️ Passionate about building impactful software
 - 📫 How to reach me: *git message*
 

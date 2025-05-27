@@ -1,10 +1,14 @@
 <!-- 🚀 顶部动态渐变波浪图 -->
-<!-- 背景容器，模拟波浪顶图叠加文字 -->
-<div align="center" style="position: relative; height: 200px; background-image: url('https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header'); background-size: cover; display: flex; align-items: center; justify-content: center;">
+<!-- 波浪背景 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header"/>
+</p>
 
-  <!-- 动态打字标题叠加在中间 -->
+<!-- 紧接其下的打字效果（模拟“附着”） -->
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Jing;Love+Coding+and+Learning!" alt="Typing SVG" />
-</div>
+</h1>
+
 
 
 <!-- 🌟 简要介绍徽章 -->

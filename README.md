@@ -1,6 +1,6 @@
 <!-- 动态渐变背景 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+a+Software+Engineering+Student;from+China+University+of+Petroleum+(East);Learning+%26+Building+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm Jing" alt="Typing SVG" />
 </p>
 
 <!-- 大标题 + 简介 -->

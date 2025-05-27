@@ -47,5 +47,5 @@
 
 <!-- 🚀 尾部动态渐变波浪图（与顶部对称） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=%20THANKS"/>
 </p>
